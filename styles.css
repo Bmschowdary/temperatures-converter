@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to bottom, #3498db, #9b59b6);
+    color: #fff;
+    text-align: center; /* Center text horizontally */
+  }
+  
+  h1 {
+    color: #fff;
+    text-align: center; /* Center h1 text horizontally */
+  }
+  
+  button {
+    background-color: #2ecc71;
+    color: #fff;
+  }
+  
+  form {
+    text-align: center; /* Center form content horizontally */
+  }
+  
+  label {
+    text-align: center; /* Center labels horizontally */
+  }
